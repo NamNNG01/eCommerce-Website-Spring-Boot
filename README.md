@@ -1,2 +1,5 @@
-# Shopping-Cart-Spring-Boot
-An eCommerce website using Spring Boot
+
+
+# eCommerce-Website-Spring-Boot
+An eCommerce website using Spring Framework
+
